@@ -1,0 +1,7 @@
+Django==1.11
+pbr==5.4.3
+pytz==2019.2
+stevedore==1.31.0
+virtualenv==16.7.5
+virtualenv-clone==0.5.3
+virtualenvwrapper==4.8.4
