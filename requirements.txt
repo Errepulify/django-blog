@@ -1,5 +1,6 @@
 Django==1.11
 pbr==5.4.3
+Pillow==6.1.0
 pytz==2019.2
 stevedore==1.31.0
 virtualenv==16.7.5
